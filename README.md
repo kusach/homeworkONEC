@@ -1,3 +1,25 @@
+# Задание к занятию "1C:EDT"
+## Задание 1. Установка EDT
+
+1.Консоли
+![Image](https://github.com/kusach/homeworkONEC/blob/main/2026-04-20_16-55-51.png)
+
+2. Значений переменных среды  
+![Image](https://github.com/kusach/homeworkONEC/blob/main/2026-04-20_16-58-33.png)
+
+3. Файла настроек  
+![Image](https://github.com/kusach/homeworkONEC/blob/main/2026-04-20_16-59-26.png)
+
+4. Рабочей области EDT  
+![Image](https://github.com/kusach/homeworkONEC/blob/main/Снимок%20экрана%20(336).png)
+
+# Задание 2. Анализ ошибок конфигурации
+Отображение ошибок только по текущему объекту  
+![Image](https://github.com/kusach/homeworkONEC/blob/main/Снимок%20экрана%20(337).png)
+
+
+
+
 Ошибка
 Переменная 'ГенерацияШтрихкода' не определена
 Переменная 'ГенерацияШтрихкода' не определена 
