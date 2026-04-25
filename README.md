@@ -17,7 +17,7 @@
 Отображение ошибок только по текущему объекту  
 ![Image](https://github.com/kusach/homeworkONEC/blob/main/Снимок%20экрана%20(337).png)
 
-Ошибки до исправления
+# Ошибки до исправления
 ![Image](https://github.com/kusach/homeworkONEC/blob/main/Снимок%20экрана%20(340).png)
 
 
@@ -95,3 +95,6 @@
 Неиспользуемая локальная переменная 'Контрагент'  
 Устранение	 
 Удалил неиспользуемую переменную  
+
+# Ошибки после исправления
+![Image](https://github.com/kusach/homeworkONEC/blob/main/Снимок%20экрана%20(341).png)
